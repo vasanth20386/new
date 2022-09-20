@@ -1,0 +1,287 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box; 
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+}
+nav{
+    height: 100px;
+    box-shadow: 0px 0px 3px 0px black;
+}
+.coffe1{
+    background-color: #d4e9e2;
+    height: 400px;
+    margin: 30px 50px 0px 60px;
+}
+.leftimg{
+    background-image: url(coffe1.jpg);
+    height:400px;
+    width: 700px;
+    float: left;
+    background-position: center;
+    background-size: cover;
+}
+.righttext{
+    text-align: center;
+}
+.righttext h2{
+    padding-top: 130px;   
+}
+.righttext p{
+    padding-top: 30px;
+}
+.righttext button{
+    margin-top: 40px;
+}
+.coffe2{
+    background-color: #006241;
+    height: 400px;
+    margin: 30px 60px 0px 60px;
+}
+.rightimg{
+    background-image: url(coffe2.jpg);
+    height:400px;
+    width: 700px;
+    float: right;
+    background-position: center;
+    background-size: cover;
+}
+.coffe2{
+    text-align: center;
+}
+.lefttext{
+    font-size: 20px;
+padding-top: 100px;
+color: white ;
+}
+.lefttext p{
+    padding: 30px;
+
+}
+
+.but1{
+    padding: 5px 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.but2{
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.coffe3{
+    background-color: #006241;
+    height: 600px;
+    margin: 30px 60px 0px 60px;
+}
+.leftimage{
+    background-image: url(coffe3.jpg);
+    height: 600px;
+    width: 700px;
+    background-position: center;
+    background-size: cover;
+    float: left;
+}
+.righttexts{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 230px;
+}
+.righttexts p{
+    padding: 30px;
+}
+.but3 {
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.coffe4{
+    background-color: #006241;
+    height: 600px;
+    margin: 30px 60px 0px 60px;
+}
+.imgcoffe4{
+    background-image: url(coffe4.jpg);
+    height: 600px;
+    width: 700px;
+    float: right;
+    background-size: cover;
+    background-position: center;
+}
+.imgtext4{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+}
+.imgtext4 p{
+    padding: 30px;
+}
+.but4{
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.coffe5{
+    background-color: #006241;
+    height: 600px;
+    margin: 30px 60px 0px 60px;
+}
+.imgcoffe5{
+    background-image: url(coffe5.jpg);
+    height: 600px;
+    width: 700px;
+    float: left;
+    background-size: cover;
+    background-position: center;
+}
+.imgtext5{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+}
+.imgtext5 p{
+    padding: 30px;
+}
+.but5{
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.coffe6{
+    background-color: #006241;
+    height: 600px;
+    margin: 30px 60px 30px 60px;
+}
+
+.imgcoffe6{
+    background-image: url(coffe6.jpg);
+    height: 600px;
+    width: 700px;
+    float: right;
+    background-size: cover;
+    background-position: center;
+}
+.imgtext6{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+}
+.imgtext6 p{
+    padding: 30px;
+}
+.but6{
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: transparent;
+}
+footer{
+    height: 500px;
+    width: 100%;
+}
+.Aboutus{
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    padding: 20px;
+}
+.Careers{
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.Social{
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.business{
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.order{
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left;
+}
+.end{
+    height: 100px;
+    width: 100%;
+    
+}
+footer{
+    font-size: 14px;
+}
+
+.logo img{
+    margin: 25px 40px;
+    height: 50px;
+    width: auto;
+    float: left;
+}
+.logo ul li{
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 25px;
+    
+    display: inline-block;
+    float: left;
+
+}
+.sign{
+    text-align: center;
+    padding: 7px 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.join{
+    padding: 7px 20px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: black;
+}
+#find{
+    
+   text-decoration: none;
+    margin-top: 15px;
+    float: left;
+    margin-right: 50px;
+}
+.menu{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 100px;
+    width: 400px;
+    float: right;
+}
+.menu2{
+    margin-top: 30px;
+    padding: 15x;
+}
+.svg{
+    height: 10px;
+    width: auto;
+}
